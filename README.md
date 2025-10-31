@@ -17,8 +17,9 @@ You can control **temperature**, **model name**, and review **conversation histo
 - 🎨 Streamlit UI designed for wide-screen displays  
 
 ---
-
 ## 🏗️ Project Flow (Mermaid Diagram)
+
+<div style="zoom: 0.75; transform-origin: top left;">
 
 ```mermaid
 graph TD
